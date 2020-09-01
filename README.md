@@ -1,2 +1,8 @@
-# Web Scraping | COVID-19
- Aprendendo Web Scraping com alguns dados do corona vírus.
+# Web Scraping
+ Aprendendo Web Scraping.
+
+* Passos:
+- [] Mergulhar nos conceitos 
+- [] Entender ferramentas
+- [] Fazer alguns exemplos
+- [] Fazer um projeto próprio 
