@@ -5,4 +5,4 @@
 - [ ] Mergulhar nos conceitos 
 - [ ] Entender ferramentas
 - [ ] Fazer alguns exemplos
-- [ ] Fazer um projeto próprio 
+- [ ] Desenvolver um projeto próprio 
