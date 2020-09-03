@@ -18,10 +18,4 @@
 
 **Beautiful Soup** = Biblioteca Python de extração de dados de arquivos HTML e XML.
 
-### **COMANDOS:**
-***
-´from bs4 import BeautifulSoup
-soup = BeautifulSoup(html_doc, 'html.parser')`
-
-
 **Fontes**: https://en.wikipedia.org/wiki/Web_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://www.crummy.com/software/BeautifulSoup/bs4/doc/; 
