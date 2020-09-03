@@ -24,7 +24,7 @@
  
 `soup = BeautifulSoup(html_doc, 'html.parser')` -> Cria um objeto soup com a estrutura de dados aninhada
 
-`print(soup.prettify())` -> 
+`print(soup.prettify())` -> Mostra como as tags estão aninhadas no documento
 
 `soup.find_all('a')` -> Procura no site o conteúdo dentro do ''
 
