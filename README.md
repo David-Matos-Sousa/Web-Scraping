@@ -1,7 +1,7 @@
-# Web Scraping
+# Web Scraping :space_invader: :man_technologist:
  Aprendendo Web Scraping.
 
-## * Tarefas:
+## Tarefas:
 - [x] Mergulhar nos conceitos 
 - [ ] Entender ferramentas
 - [ ] Fazer alguns exemplos
