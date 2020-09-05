@@ -39,4 +39,8 @@
 
 `soup.find('i', class_ ='fa-link').next_element.text`-> Pega o texto do próximo elemento
 
+`for fornecedor in informacoes:
+  responsavel = fornecedor.find('i', class_= 'fa-user').next_element.next_element.text` -> Como a BeaultifulSoup sempre puxa o primeiro elemento, é necessário fazer um for para pegar outros dados da página 
+
+
 **Fontes**: https://en.wikipedia.org/wiki/Web_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://www.crummy.com/software/BeautifulSoup/bs4/doc/; 
