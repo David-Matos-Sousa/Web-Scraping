@@ -3,8 +3,8 @@
 
 ## Tarefas:
 - [x] Mergulhar nos conceitos 
-- [ ] Entender ferramentas
-- [ ] Fazer alguns exemplos
+- [x] Entender ferramentas
+- [x] Fazer alguns exemplos
 - [ ] Desenvolver um projeto próprio 
 
 
@@ -22,9 +22,9 @@
 ***
  `from bs4 import BeautifulSoup` -> Usado para importar a biblioteca
  
-`soup = BeautifulSoup(html_doc, 'html.parser')` -> Cria um objeto soup com a estrutura de dados aninhada
+`soup = BeautifulSoup(html_doc, 'html.parser')` -> Cria um objeto soup com a estrutura de dados parseada (alinhada/organizada)
 
-`print(soup.prettify())` -> Mostra como as tags estão aninhadas no documento
+`soup.prettify()` -> Mostra como as tags estão aninhadas no documento
 
 `soup.find_all('a')` -> Procura no site o conteúdo dentro do ''
 
@@ -32,10 +32,12 @@
 
 `soup.find(class="fyi")` -> Procura no site a classe informada
 
-`print(soup.get_text())` -> Extrai todo o texto do site
+`soup.get_text()` -> Extrai todo o texto do site
 
+`soup.find('div', class_= 'small-widget').h2` -> Retorna o h2 da classe informada
 
+`soup.find('i', class_ ='fa-link').next_element.next_element` -> Retorna o próximo elemento (quantas vezes for digitado)
 
-
+`soup.find('i', class_ ='fa-link').next_element.text`-> Pega o texto do próximo elemento
 
 **Fontes**: https://en.wikipedia.org/wiki/Web_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://www.crummy.com/software/BeautifulSoup/bs4/doc/; 
