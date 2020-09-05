@@ -15,7 +15,6 @@ informacoes = soup.find_all('figure') # Atribuição dos retornos da classe figu
 
 #Como a BeaultifulSoup sempre puxa o primeiro elemento, é necessário fazer um for para pegar outros dados da página
 
-9
 for fornecedor in informacoes: # for para pegar os dados desejados
 
   empresa = fornecedor.h5.text # Pegando o texto do h5 que é o nome da empresa
