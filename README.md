@@ -13,9 +13,9 @@
 
 **Parsing** -> Analise do conteúdo HTML da página 
 
-**Requests** -> Requisições a sites
+**Requests** -> Biblioteca Python para fazer requisições a sites
 
-**Beautiful Soup** -> Biblioteca Python de extração de dados de arquivos HTML e XML.
+**Beautiful Soup** -> Biblioteca Python de extração de dados de arquivos HTML e XML
 
 ### **Comandos:**
 ***
