@@ -1,5 +1,4 @@
 # :space_invader: Web Scraping :man_technologist:
- Aprendendo Web Scraping.
 
 ## Tarefas:
 - [x] Mergulhar nos conceitos 
