@@ -19,7 +19,8 @@
 **Beautiful Soup** -> Biblioteca Python de extração de dados de arquivos HTML e XML
 
 ## **Exemplos:**
-
+- 
+- 
 ### **Comandos:**
 ***
  `from bs4 import BeautifulSoup` -> Usado para importar a biblioteca
@@ -45,5 +46,9 @@
 `for fornecedor in informacoes:
   responsavel = fornecedor.find('i', class_= 'fa-user').next_element.next_element.text` -> Como a BeaultifulSoup sempre puxa o primeiro elemento, é necessário fazer um for para pegar outros dados da página 
 
-
-**Fontes**: https://en.wikipedia.org/wiki/Web_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://en.wikipedia.org/wiki/Data_scraping; https://www.crummy.com/software/BeautifulSoup/bs4/doc/; 
+## **Referências**: 
+- **Artigo na Wikipedia sobre Web Scraping (Inglês)** | https://en.wikipedia.org/wiki/Web_scraping
+- **Artigo na Wikipedia sobre Data Scraping (Inglês)** | https://en.wikipedia.org/wiki/Data_scraping 
+- **Documentação da BeautifulSoup (Inglês)** | https://www.crummy.com/software/BeautifulSoup/bs4/doc/ 
+- **Documentação da BeautifulSoup (Português)** | https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/
+- **Video tutorial sobre sobre Web Scraping e BeautifulSoup (Português)** | https://www.youtube.com/watch?v=anv-Vt_FL4E
