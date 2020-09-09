@@ -19,7 +19,7 @@
 **Beautiful Soup** -> Biblioteca Python de extração de dados de arquivos HTML e XML
 
 ## **Exemplos:**
-- 
+- [Script que extrai todos os fornecedores de um site e retorna um arquivo csv :trophy:](https://github.com/David-Matos-Sousa/Web-Scraping/blob/master/main.py) 
 - 
 ### **Comandos:**
 ***
