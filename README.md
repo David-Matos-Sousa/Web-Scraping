@@ -6,6 +6,7 @@
 - [x] Fazer alguns exemplos
 - [ ] Desenvolver um projeto próprio 
 
+## **Definições:**
 
 **Web scraping** -> Extração de dados em sites
 
@@ -16,6 +17,8 @@
 **Requests** -> Biblioteca Python para fazer requisições a sites
 
 **Beautiful Soup** -> Biblioteca Python de extração de dados de arquivos HTML e XML
+
+## **Exemplos:**
 
 ### **Comandos:**
 ***
