@@ -16,11 +16,11 @@
 
 **Requests** -> Biblioteca Python para fazer requisições a sites
 
-**Beautiful Soup** -> Biblioteca Python de extração de dados de arquivos HTML e XML
+**BeautifulSoup** -> Biblioteca Python de extração de dados de arquivos HTML e XML
 
 ## **Exemplos:**
-- [Script que extrai todos os fornecedores de um site e retorna um arquivo csv :trophy:](https://github.com/David-Matos-Sousa/Web-Scraping/blob/master/main.py) 
-- 
+- [Script que extrai todos os fornecedores de um site e retorna um arquivo csv :trophy: | BeautifulSoup, Requests](https://github.com/David-Matos-Sousa/Web-Scraping/blob/master/main.py) 
+- [Script que retorna alguns rankings da NBA em um arquivo json :basketball: | Selenium, BeautifulSoup, Requests](https://github.com/David-Matos-Sousa/Web-Scraping/blob/master/Exemplo_02.py)
 ### **Comandos:**
 ***
  `from bs4 import BeautifulSoup` -> Usado para importar a biblioteca
