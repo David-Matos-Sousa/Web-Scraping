@@ -8,7 +8,7 @@
 
 ## **Definições:**
 
-**Web scraping** -> Sucintamente é a extração e manipulação de dados em sites. Web scraping é utilizado em muitos processos de automatização de tarefas, pois por meio do navegador ou de requests em sites obtêm acesso às informações contidas neles.
+**Web scraping** -> Sucintamente é a extração e manipulação de dados em sites. Web scraping é utilizado em muitos processos de automatização de tarefas, pois por meio do navegador ou de requests em sites é possivel obter acesso às informações contidas neles.
 
 **Fetching** -> Baixar o conteúdo da página
 
