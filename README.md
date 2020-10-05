@@ -18,6 +18,10 @@
 
 **BeautifulSoup** -> Biblioteca Python que faz a extração, manipulação e o parseamento do dados em HTML e XML.
 
+**Selenium** -> Biblioteca Python para a criação de bots que automatizam o acesso aos sites por meio navegadores.
+
+**Pandas** -> Biblioteca Python muito utilizada para a manipulação e análise de dados.
+
 ## **Exemplos:**
 - [Script que extrai todos os fornecedores de um site e retorna um arquivo csv :trophy: | BeautifulSoup, Requests](https://github.com/David-Matos-Sousa/Web-Scraping/blob/master/main.py) 
 - [Script que retorna alguns rankings da NBA em um arquivo json :basketball: | Selenium, BeautifulSoup, Requests](https://github.com/David-Matos-Sousa/Web-Scraping/blob/master/Exemplo_02.py)
