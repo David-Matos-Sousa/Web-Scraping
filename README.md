@@ -8,15 +8,15 @@
 
 ## **Definições:**
 
-**Web scraping** -> Sucintamente é a extração e manipulação de dados em sites. Web scraping é utilizado em muitos processos de automatização de tarefas, pois por meio do navegador ou de requests em sites é possivel obter acesso às informações contidas neles.
+**Web scraping** -> Basicamente é a extração e manipulação de dados em sites. Web Scraping é utilizado em muitos processos de automatização de tarefas, pois por meio do navegador ou de requests em sites é possível obter acesso às informações contidas no HTML. Esses dados podem ser manipulados, organizados e transformados de acordo com a sua necessidade. Existem muitas possibilidades que você pode explorar o Web Scraping para realizar um projeto, um exemplo seria para criar um script para visualizar os dados de um site e retornar em um arquivo csv, pegar as informações dos sites de viagem e ver qual a passagem mais barata para um determinado destino, entre outros muitos usos diversificados da ferramenta.
 
-**Fetching** -> Baixar o conteúdo da página
+**Fetching** -> Buscar os dados de página pelo script.
 
-**Parsing** -> Analise do conteúdo HTML da página 
+**Parsing** -> É o processo de análise do conteúdo da página em HTML e organização do mesmo por meio de tags, divs e etc.
 
-**Requests** -> Biblioteca Python para fazer requisições a sites
+**Requests** -> Biblioteca Python utilizada para fazer requisições a sites em HTTP, de modo a acessar o conteúdo do site.
 
-**BeautifulSoup** -> Biblioteca Python de extração de dados de arquivos HTML e XML
+**BeautifulSoup** -> Biblioteca Python que faz a extração, manipulação e o parseamento do dados em HTML e XML.
 
 ## **Exemplos:**
 - [Script que extrai todos os fornecedores de um site e retorna um arquivo csv :trophy: | BeautifulSoup, Requests](https://github.com/David-Matos-Sousa/Web-Scraping/blob/master/main.py) 
